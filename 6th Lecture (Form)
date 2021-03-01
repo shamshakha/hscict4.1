@@ -1,0 +1,113 @@
+<html>
+
+<head>
+
+   <title>
+     Gyanarjan
+    </title>
+
+<p align=center><B><I>
+Gyanarjan ( Just sharing knowledge)</I></B>
+</p>
+
+</head>
+<br>
+<body bgcolor="#33FFF9">
+<p align=center>
+
+   <img src="B:\Users\SS\Desktop\GYANRJAN.jpg" height=50 width=70>
+<br>
+   If you want to go to youtube
+   <a target=empty href="https://www.youtube.com"> Click here </a>
+   <br>
+   <ol type=i>
+     <li>English</li>
+     <li>Bangla </li>
+   </ol>
+   <ul type=square>
+     <li>English</li>
+     <li>Bangla </li>
+   </ul>
+
+<table border=1>
+   <tr>
+     <th>Name</th>
+     <th> Description </th>
+   </tr>
+   <tr>
+     <td colspan=2> dish </td>
+  
+   </tr>
+<tr>
+     <td> hallo</td>
+     <td rowspan=3> how are you </td>
+   </tr>
+<tr>
+     <td> olo </td>
+   </tr>
+<tr>
+     <td> Helo </td>
+
+   </tr>
+</table>
+
+<br>
+<form>
+
+ <label>Name : </label>
+  <input type="text">
+<br>
+<br>
+ <label>Pass : </label>
+ <input type="text"> 
+<br>
+<br>
+  <label> Confirm Pass word </label>
+   <input type="text"> </input>
+<br>
+<br>
+<select>
+   <option>Male</option>
+     <option>female</option>
+  <option>Others</option>
+</select>
+
+<br>
+<br>
+
+<input type="radio" name="interest">
+<label> I am interested in English </label>
+<br>
+<input type="radio" name="interest">
+<label> I am interested in Physics </label>
+<br>
+<input type="radio" name="interest">
+<label> I am interested in Math </label>
+<br>
+ 
+
+
+<input type="checkbox" >
+<label> I am interested in Eng </label>
+<br>
+<input type="checkbox" >
+<label> I am interested in Phy </label>
+<br>
+<input type="checkbox" >
+<label> I am interested in Ma </label>
+<br>
+ 
+
+
+
+
+
+<button> Submit </button>
+
+
+</form>
+</p>
+</body>
+
+
+</html>
